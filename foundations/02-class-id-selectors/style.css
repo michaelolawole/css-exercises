@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.odd{
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+.cool{
+    font-size: 24px;
+}
+#div1{
+    color: #add8e6;
+    font-size: 36px;
+}
+#div2{
+    background-color: #90ee90;
+    font: 24px;
+    font-weight: bold;
+}
